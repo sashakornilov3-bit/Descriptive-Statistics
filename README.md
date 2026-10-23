@@ -1,4 +1,4 @@
-# Descriptive-Statistics
+# Statistics
 ---
 
 Описательная статистика (Descriptive Statistics)
